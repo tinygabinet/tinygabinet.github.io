@@ -174,6 +174,10 @@ const translations = {
     card7_3_title: "Breaking Lab",
     card7_3_desc: "Sintetizando notas.",
     card7_3_link: "🔬 Ver en YT",
+
+    card7_4_title: "La primera computadora que cantó",
+    card7_4_desc: "Daisy, Daisy, ¿subirías a mi bicicleta para dos?",
+    card7_4_link: "🖥️ Ver en YT",
     
     // Donation section
     donPaypal: "PayPal",
@@ -361,6 +365,10 @@ const translations = {
     card7_3_desc: "Synthesizing notes.",
     card7_3_link: "🔬 Watch on YT", 
 
+    card7_4_title: "The First Computer To Sing",
+    card7_4_desc: "Daisy, Daisy, would you ride with me on a bicycle built for two?",
+    card7_4_link: "🖥️ Watch on YT",
+
 
     // Donation section
     donPaypal: "PayPal",
@@ -372,3 +380,4 @@ const translations = {
     donPrexLabel: "Prex uy:" 
 }
 }; 
+
