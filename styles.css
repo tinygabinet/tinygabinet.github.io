@@ -188,7 +188,7 @@ h1::after {
 }
 
 .card-content span {
-  display: block; /* Asegura que el span ocupe su propia línea */
+  display: block; 
 }
 
 .link-card.active .card-content {
@@ -231,7 +231,7 @@ h1::after {
     0 0 15px rgba(255, 255, 100, 1),
     0 0 30px rgba(255, 255, 100, 0.8),
     0 0 45px rgba(255, 255, 100, 0.5);
-  animation: fly 15s infinite ease-in-out;
+  animation: fly 20s infinite ease-in-out;
 }
 
 @keyframes fly {
@@ -244,14 +244,14 @@ h1::after {
   100% { opacity: 0; transform: translate(-80px, -200px); }
 }
 
-.firefly:nth-child(1) { left: 10%; top: 80%; animation-delay: 0s; animation-duration: 12s; }
-.firefly:nth-child(2) { left: 30%; top: 70%; animation-delay: 2s; animation-duration: 15s; }
-.firefly:nth-child(3) { left: 50%; top: 85%; animation-delay: 4s; animation-duration: 13s; }
-.firefly:nth-child(4) { left: 70%; top: 75%; animation-delay: 1s; animation-duration: 14s; }
-.firefly:nth-child(5) { left: 85%; top: 90%; animation-delay: 3s; animation-duration: 16s; }
-.firefly:nth-child(6) { left: 20%; top: 65%; animation-delay: 5s; animation-duration: 11s; }
-.firefly:nth-child(7) { left: 60%; top: 80%; animation-delay: 2.5s; animation-duration: 13.5s; }
-.firefly:nth-child(8) { left: 40%; top: 95%; animation-delay: 4.5s; animation-duration: 12.5s; }
+.firefly:nth-child(1) { left: 10%; top: 80%; animation-delay: 0s; animation-duration: 18s; }
+.firefly:nth-child(2) { left: 30%; top: 70%; animation-delay: 2s; animation-duration: 22s; }
+.firefly:nth-child(3) { left: 50%; top: 85%; animation-delay: 4s; animation-duration: 19s; }
+.firefly:nth-child(4) { left: 70%; top: 75%; animation-delay: 1s; animation-duration: 21s; }
+.firefly:nth-child(5) { left: 85%; top: 90%; animation-delay: 3s; animation-duration: 24s; }
+.firefly:nth-child(6) { left: 20%; top: 65%; animation-delay: 5s; animation-duration: 17s; }
+.firefly:nth-child(7) { left: 60%; top: 80%; animation-delay: 2.5s; animation-duration: 20s; }
+.firefly:nth-child(8) { left: 40%; top: 95%; animation-delay: 4.5s; animation-duration: 23s; }
 
 /* ---------- LAYOUT DESKTOP: 3 PANELES ---------- */
 
@@ -418,4 +418,5 @@ h1::after {
   padding: 2px 6px;
   border-radius: 6px;
   font-size: 0.85em;
+
 }
