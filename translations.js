@@ -20,6 +20,7 @@ const translations = {
     sec5: "Música de lo micro",
     sec6: "Experimentos Aviares",
     sec7: "Misc.",
+    sec8: "Cosmic Acoustics",
     
     // Cards section 1
     card1_1_title: "El pianista de los dedos más largos",
@@ -143,7 +144,7 @@ const translations = {
     card6_4_desc: "Un arquetipo electronico que sintoniza varios cantos.",
     card6_4_link: "🐦 Ver en Instagram",
     
-    sec8: "Música aún no escuchada",
+    sec8: "Acústica Cósmica",
 
     card8_1_title: "Canciones del sistema solar",
     card8_1_desc: "No se necesita ser un planeta para poder cantar.",
@@ -210,6 +211,7 @@ const translations = {
     sec5: "Music from the Micro",
     sec6: "Avian Experiments",
     sec7: "Misc.",
+    sec8: "Cosmic Acoustics",
     
     // Cards section 1
     card1_1_title: "The pianist with the longest fingers",
@@ -334,7 +336,7 @@ const translations = {
     card6_4_desc: "An electronic archetype that tunes into multiple songs.",
     card6_4_link: "🐦 Watch on Instagram",
 
-    sec8: "Music Yet Unheard",
+    sec8: "Cosmic Acoustics",
 
     card8_1_title: "Songs of the Solar System",
     card8_1_desc: "You don’t need to be a planet in order to sing.",
@@ -380,4 +382,5 @@ const translations = {
     donPrexLabel: "Prex uy:" 
 }
 }; 
+
 
